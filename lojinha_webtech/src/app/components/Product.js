@@ -30,7 +30,7 @@ const Product = ({ image, name, rating, price }) => {
                     src={image} 
                     alt={name} 
                     width={200} 
-                    height={200} 
+                    height={200}
                     className={styles.image}
                 />
             </div>
